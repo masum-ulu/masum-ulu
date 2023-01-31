@@ -1,4 +1,4 @@
-### 👋 Hi, i'm Masum
+### 👋 Hi, I'm Masum
 ##
 [![GitHub Streak](https://streak-stats.demolab.com?user=masumulu28&theme=tokyonight_duo&hide_border=true&border_radius=15)](https://git.io/streak-stats)
 
