@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-- 🔭 I’m currently working on **Angular** also sometimes react native 🤔
+- 🔭 I’m currently working on Frontend (**Angular** also sometimes react native 🤔)
 
 #
 
