@@ -1,5 +1,5 @@
 ### Hello there 👋
-- I'm working at at [Volosoft](https://volosoft.com). Also I'm a team member of [NG Turkey](https://github.com/ng-turkey)
+- I'm working at [Volosoft](https://volosoft.com). Also I'm a team member of [NG Turkey](https://github.com/ng-turkey)
 - 🔭 Currently I'm working on Frontend `🅰ngular`
 
 #
