@@ -1,7 +1,7 @@
 ### Hello there 👋
 - I'm working at [Volosoft](https://volosoft.com). Also I'm a team member of [NG Turkey](https://github.com/ng-turkey)
 - 🔭 Currently I'm working on Frontend `🅰ngular`
-
+- I've experience with React Native 🤔 (It was weird)
 #
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=masumulu28&theme=tokyonight_duo&hide_border=true&border_radius=15)](https://git.io/streak-stats)
