@@ -4,7 +4,7 @@
 - I've experience with React Native 🤔 (It was weird)
 #
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=masumulu28&theme=tokyonight_duo&hide_border=true&border_radius=15)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=masum-ulu&theme=tokyonight&hide_border=true&border_radius=15&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <!--
 **masumulu28/masumulu28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
