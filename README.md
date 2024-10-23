@@ -1,6 +1,6 @@
 ### Hello there 👋
 - I'm working at [Volosoft](https://volosoft.com). Also I'm a team member of [NG Turkey](https://github.com/ng-turkey)
-- 🔭 Currently I'm working on Frontend `🅰ngular`
+- 🔭 Currently I'm working on Frontend `Angular`
 - I've experience with React Native 🤔 (It was weird)
 #
 
