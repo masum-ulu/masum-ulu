@@ -2,9 +2,6 @@
 - I'm working at [Volosoft](https://volosoft.com). Also I'm a team member of [NG Turkey](https://github.com/ng-turkey)
 - 🔭 Currently I'm working on Frontend `Angular`
 - I've experience with React Native 🤔 (It was weird)
-#
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=masum-ulu&theme=tokyonight&hide_border=true&border_radius=15&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <!--
 **masumulu28/masumulu28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
