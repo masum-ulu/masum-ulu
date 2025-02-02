@@ -1,5 +1,6 @@
 ### Hello there 👋
-- I'm working at [Volosoft](https://volosoft.com). Also I'm a team member of [NG Turkey](https://github.com/ng-turkey)
+- Co-Founder [Allegorysoft](https://github.com/allegorysoft)
+- Team member of [NG Turkey](https://github.com/ng-turkey) & [ABP Framework](https://github.com/abpframework)
 - 🔭 Currently I'm working on Frontend `Angular`
 - I've experience with React Native 🤔 (It was weird)
 
